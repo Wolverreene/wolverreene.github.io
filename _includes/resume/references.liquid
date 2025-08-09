@@ -21,7 +21,11 @@
           <tr>
             <td></td>
             <td class="list-group-name">
-              <b>{{ content.reference }}</b>
+              <b>
+                {% for ref in content.reference %}
+                  {{ ref }}<br>
+                {% endfor %}
+              </b>
             </td>
           </tr>
         </tbody>
