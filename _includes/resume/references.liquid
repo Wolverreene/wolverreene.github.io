@@ -16,12 +16,19 @@
             {% for item in content.items %}
               {% assign i = i | plus: 1 %}
             {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.name }}</td>
+            <td colspan="{{ i }}" class="list-group-category">
+              {{ content.name }}
+            </td>
           </tr>
           <tr>
             <td></td>
             <td class="list-group-name">
-              <b>{{ content.reference }}</b>
+              <b>
+                {% for ref in content.reference %}
+                  {{ ref -}}
+                  <br>
+                {% endfor %}
+              </b>
             </td>
           </tr>
         </tbody>
