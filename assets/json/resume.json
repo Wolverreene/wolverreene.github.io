@@ -32,8 +32,8 @@
       "name": "Well Stuff Industries",
       "position": "Front End Designer",
       "url": "",
-      "startDate": "May 2022",
-      "endDate": "Jan 2023",
+      "startDate": "2022-05-04",
+      "endDate": "2023-01-01",
       "summary": "Maintained company website and online store",\
       "location": "Sialkot, Pakistan"
       "highlights": [""]
@@ -42,8 +42,8 @@
       "name": "ProntoDigital, LLC",
       "position": "Data Analytics Consultant",
       "url": "",
-      "startDate": "Nov 2021",
-      "endDate": "Apr 2022",
+      "startDate": "2021-11-15",
+      "endDate": "2022-04-01",
       "summary": "Provided data analytics services and developed data-driven solutions",
       "location": "Indiana, USA"
       "highlights": [""]
@@ -52,8 +52,8 @@
       "name": "Afiniti Software Solutions Pvt. Ltd.",
       "position": "Software Quality Assurance Intern",
       "url": "",
-      "startDate": "Jul 2020",
-      "endDate": "Aug 2020",
+      "startDate": "2020-07-01",
+      "endDate": "2020-08-30",
       "summary": "Participated in Project Trainee Program",
       "location": "Lahore, Pakistan"
       "highlights": [""]
@@ -66,8 +66,8 @@
       "url": "",
       "area": "Computational Science and Engineering",
       "studyType": "Master of Science",
-      "startDate": "Feb 2023",
-      "endDate": "Jun 2025",
+      "startDate": "2023-02-05",
+      "endDate": "2025-06-10",
       "CGPA": "3.70/4.00",
       "courses": [""]
     },
@@ -77,8 +77,8 @@
       "url": "",
       "area": "Computer Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "Sep 2017",
-      "endDate": "Jul 2021",
+      "startDate": "2017-09-05",
+      "endDate": "2021-07-28",
       "CGPA": "2.91/4.00",
       "courses": [""]
     }
@@ -86,7 +86,7 @@
   "awards": [
     {
       "title": "Second Position in Final Year Project",
-      "date": "May 2021",
+      "date": "2021-05-04",
       "awarder": "Faculty of Computer Science and Engineering, GIKI",
       "url": "",
       "summary": ""
