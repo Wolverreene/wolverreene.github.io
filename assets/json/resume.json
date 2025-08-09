@@ -94,23 +94,23 @@
   ],
   "skills": [
     {
-    "name": "Programming Languages",
-    "level": "Advanced",
-    "icon": "fa-solid fa-code",
-    "keywords": ["Python", "C++", "MATLAB", "HTML", "CSS", "PhP"]
-  },
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "C++", "MATLAB", "HTML", "CSS", "PhP"]
+    },
     {
-    "name": "Developer Tools & Frameworks",
-    "level": "Proficient",
-    "icon": "fa-solid fa-toolbox",
-    "keywords": ["Git", "Linux", "Visual Studio", "LaTeX", "Microsoft Visio", " Google Analytics", "Google Tag Manager"]
-  },
+      "name": "Developer Tools & Frameworks",
+      "level": "Proficient",
+      "icon": "fa-solid fa-toolbox",
+      "keywords": ["Git", "Linux", "Visual Studio", "LaTeX", "Microsoft Visio", " Google Analytics", "Google Tag Manager"]
+    },
     {
-    "name": "Soft Skills",
-    "level": "Strong",
-    "icon": "fa-solid fa-users",
-    "keywords": ["Time Management", "Hard-work", "Teamwork", "Problem-solving", "Documentation", "Punctuality", "Responsible"]
-  }
+      "name": "Soft Skills",
+      "level": "Strong",
+      "icon": "fa-solid fa-users",
+      "keywords": ["Time Management", "Hard-work", "Teamwork", "Problem-solving", "Documentation", "Punctuality", "Responsible"]
+    }
   ],
   "languages": [
     {
@@ -133,14 +133,7 @@
     {
       "name": "Hobbies",
       "icon": "fa-solid fa-heart",
-      "keywords": [
-        "Pianist",
-        "Photographer",
-        "Sketch Artist",
-        "Badminton Player",
-        "Skateboarder",
-        "Motorsport Enthusiast"
-      ]
+      "keywords": ["Pianist", "Photographer", "Sketch Artist", "Badminton Player", "Skateboarder", "Motorsport Enthusiast"]
     }
   ],
   "references": [
