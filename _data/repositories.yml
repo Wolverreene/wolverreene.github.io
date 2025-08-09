@@ -1,9 +1,8 @@
 github_users:
   - Wolverreene
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
   - Wolverreene/2D_SpaceShooterGame
   - Wolverreene/Chatbot_using_RAG
-  
