@@ -35,8 +35,7 @@
       "startDate": "May 2022",
       "endDate": "Jan 2023",
       "summary": "Maintained company website and online store",
-      "location": "Sialkot, Pakistan",
-      "highlights": [""]
+      "location": "Sialkot, Pakistan"
     },
     {
       "name": "ProntoDigital, LLC",
@@ -45,8 +44,7 @@
       "startDate": "Nov 2021",
       "endDate": "Apr 2022",
       "summary": "Provided data analytics services and developed data-driven solutions",
-      "location": "Indiana, USA",
-      "highlights": [""]
+      "location": "Indiana, USA"
     },
     {
       "name": "Afiniti Software Solutions Pvt. Ltd.",
@@ -55,8 +53,7 @@
       "startDate": "Jul 2020",
       "endDate": "Aug 2020",
       "summary": "Participated in Project Trainee Program",
-      "location": "Lahore, Pakistan",
-      "highlights": [""]
+      "location": "Lahore, Pakistan"
     }
   ],
   "education": [
@@ -68,8 +65,7 @@
       "studyType": "Master of Science",
       "startDate": "Feb 2023",
       "endDate": "Jun 2025",
-      "CGPA": "3.70/4.00",
-      "courses": [""]
+      "CGPA": "3.70/4.00"
     },
     {
       "institution": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)",
@@ -79,8 +75,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "Sep 2017",
       "endDate": "Jul 2021",
-      "CGPA": "2.91/4.00",
-      "courses": [""]
+      "CGPA": "2.91/4.00"
     }
   ],
   "awards": [
@@ -141,30 +136,30 @@
       "name": "Engr. Dr. Marios Lestas",
       "icon": "fa-solid fa-user-tie",
       "reference": [
-        "Associate Professor",
+        "<a href='https://www.frederick.ac.cy/en/about-us/faculty-staff/faculty?view=page&id=108&lid=758'>Associate Professor</a>",
         "Frederick University, Nicosia, Cypus",
-        "Email: eng.lm@frederick.ac.cy",
-        "Ph.D.- University of Southern California, United States"
+        "<a href='mailto:eng.lm@frederick.ac.cy'>eng.lm@frederick.ac.cy</a>",
+        "PhD - University of Southern California, United States"
       ]
     },
     {
       "name": "Engr. Dr. Hassaan Khaliq Qureshi",
       "icon": "fa-solid fa-user-tie",
       "reference": [
-        "Tenured Professor",
+        "<a href='https://seecs.nust.edu.pk/faculty/hassaan-khaliq-qureshi'>Tenured Professor</a>",
         "National University of Sciences and Technology, Islamabad, Pakistan",
-        "Email: hassaan.khaliq@seecs.edu.pk",
-        "Ph.D.- University of London, United Kingdom"
+        "<a href='mailto:hassaan.khaliq@seecs.edu.pk'>hassaan.khaliq@seecs.edu.pk</a>",
+        "PhD - University of London, United Kingdom"
       ]
     },
     {
       "name": "Engr. Dr. Muhammad Waqas",
       "icon": "fa-solid fa-user-tie",
       "reference": [
-        "Senior Lecturer",
+        "<a href='https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-waqas'>Senior Lecturer</a>",
         "University of Greenwich, London, United Kingdom",
-        "Email: muhammad.waqas@gre.ac.uk",
-        "Ph.D.- Tsinghua University, China"
+        "<a href='mailto:muhammad.waqas@gre.ac.uk'>muhammad.waqas@gre.ac.uk</a>",
+        "PhD - Tsinghua University, China"
       ]
     }
   ]

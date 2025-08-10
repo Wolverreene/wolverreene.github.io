@@ -7,14 +7,12 @@ first_name: Suleman
 middle_name:
 last_name: Munawar
 contact_note: >
-  # You can even add a little note about which of these is the best way to reach you.
+  Always happy to explore new roles and projects in tech, research, and innovation. Let’s connect 💻
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  # A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Portfolio & Research Hub. Based on the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+keywords: Python, C++, Large Language Models (LLMs), Generative-AI (GenAI), Edge Computing, Autonomous Vehicles, Research, Developer, Engineer, Freelancer # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🏎️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
