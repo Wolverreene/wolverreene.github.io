@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MS Scholar at <a href='https://sines.nust.edu.pk'>SINES, NUST</a>
 
 profile:
   align: right
