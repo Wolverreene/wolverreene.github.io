@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+description: A collection of my projects, both work-related and personal.
 permalink: /projects/
 nav: true
 nav_order: 3
