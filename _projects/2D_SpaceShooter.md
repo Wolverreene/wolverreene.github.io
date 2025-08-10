@@ -12,6 +12,7 @@ category: fun
 This is a 2D space shooter game where the player controls a spaceship to shoot down enemies and earn points. The game is built using Object-Oriented Programming (OOP) principles in Python, utilizing the Pygame library for graphics and interaction.
 
 ## Features
+
 - **Player Controls**: Use the left and right arrow keys to move the spaceship, and the spacebar to shoot bullets.
 - **Enemies**: Enemies spawn from the top of the screen and move downward.
 - **Collisions**: When the player's bullets collide with enemies, the enemies are destroyed and the player's score increases.
@@ -22,6 +23,7 @@ This is a 2D space shooter game where the player controls a spaceship to shoot d
 ## Game Design
 
 The game uses several classes to handle different aspects of the game:
+
 - **Database Class**: Manages interactions with the SQLite database, storing and retrieving high scores.
 - **Player Class**: Handles the player's movement, shooting, and score management.
 - **Bullet Class**: Manages the behavior of the player's bullets.
