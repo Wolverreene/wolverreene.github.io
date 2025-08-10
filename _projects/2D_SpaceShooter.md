@@ -2,7 +2,7 @@
 layout: page
 title: 2D Space Shooter Game
 description: A 2D space shooter game where a player controls a spaceship to shoot down enemies and earn points. It was developed using OOP concepts and techniques in Python.
-img: assets/img/mine/2d-game.png
+img: assets/img/meri/2d-game.png
 importance: 1
 category: fun
 ---

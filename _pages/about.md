@@ -6,7 +6,7 @@ subtitle: MS Scholar at <a href='https://sines.nust.edu.pk'>SINES, NUST</a>
 
 profile:
   align: right
-  image: mine/prof-pic.jpg
+  image: meri/prof-pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Frederick University</p>
