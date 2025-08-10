@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "",
+          description: "A collection of my publications, including papers and research articles.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "",
+          description: "A collection of my projects, both work-related and personal.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
