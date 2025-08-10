@@ -96,5 +96,3 @@ Screenshots of interface:
 - The OpenAI API key used during development has been excluded for security.
 - You must insert your own API key as described above.
 - The project was tested and confirmed to work on Windows OS.
-
-{% endraw %}
