@@ -7,10 +7,6 @@ importance: 1
 category: fun
 ---
 
-# 2D Space Shooter Game
-
-This is a 2D space shooter game where the player controls a spaceship to shoot down enemies and earn points. The game is built using Object-Oriented Programming (OOP) principles in Python, utilizing the Pygame library for graphics and interaction.
-
 ## Features
 
 - **Player Controls**: Use the left and right arrow keys to move the spaceship, and the spacebar to shoot bullets.
@@ -66,14 +62,11 @@ The game will open in a window with a size of 800x600 pixels. Use the arrow keys
 ## Demo
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/video/2D-Game.mp4" title="example image" %}
-    </div>
-</div>
-<div class="caption">
-    A demo video showing the gameplay and code implementation.
+  <div class="col-sm mt-3 mt-md-0">
+    {% include video.liquid path="assets/video/2D-Game.mp4" controls=true width="100%" caption="A demo video showing the gameplay and code implementation." %}
+  </div>
 </div>
 
 ## Documentation
 
-Apart from the game itself, I have also created a complete documentation that outlines the game's design, implementation, test plan, optimization logs, and review discussions. The documentation is available in the [**2D-GameDoc.pdf**](assets/pdf/2D-GameDoc.pdf) file in the repository.
+Apart from the game itself, I have also created a complete documentation that outlines the game's design, implementation, test plan, optimization logs, and review discussions. The documentation is available in the [**2D-GameDoc.pdf**](../assets/pdf/2D-GameDoc.pdf) file in the repository.

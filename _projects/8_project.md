@@ -1,4 +1,5 @@
----
+## {% comment %}
+
 layout: page
 title: project 8
 description: an other project with a background image and giscus comments
@@ -6,6 +7,7 @@ img: assets/img/9.jpg
 importance: 2
 category: work
 giscus_comments: true
+
 ---
 
 Every project has a beautiful feature showcase page.
@@ -79,3 +81,5 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+{% endcomment %}
