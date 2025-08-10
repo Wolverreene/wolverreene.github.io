@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "projects-2d-space-shooter-game",
+        },{id: "projects-2d-space-shooter-game",
           title: '2D Space Shooter Game',
           description: "A 2D space shooter game where a player controls a spaceship to shoot down enemies and earn points. It was developed using OOP concepts and techniques in Python.",
           section: "Projects",handler: () => {
