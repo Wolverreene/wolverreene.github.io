@@ -31,7 +31,7 @@ Hi! I'm **Suleman Munawar**, a Computational Science and Engineering graduate st
 
 I'm currently completing my Master's at **NUST, Pakistan**, and pursuing a **research mobility program at Frederick University, Cyprus**, funded by **Erasmus+**. My academic experience includes multiple **IEEE publications** in cutting-edge domains like RIS-assisted vehicular networks and DNN-based task offloading for edge computing.
 
-My goal is clear: to apply this knowledge and research experience in the **tech industry**, in roles that involve solving **real-world problems with high-impact technologies**, whether that’s working on **autonomous vehicles, AI/ML systems, cloud-edge integration**, or **intelligent infrastructure**.
+My goal is clear: to apply this knowledge and research experience in the **tech industry**, in roles that involve solving **real-world problems with high-impact technologies**, whether that's working on **autonomous vehicles, AI/ML systems, cloud-edge integration**, or **intelligent infrastructure**.
 
 I've also worked in front-end development, data analytics, and software testing, giving me a well-rounded understanding of software systems. I'm actively seeking **full-time opportunities or research-intensive roles** where I can grow, contribute, and build impactful solutions that reflect my skills and interests.
 
