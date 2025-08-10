@@ -35,6 +35,11 @@ ninja.data = [{
           description: "A 2D space shooter game where a player controls a spaceship to shoot down enemies and earn points. It was developed using OOP concepts and techniques in Python.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2D_SpaceShooter.html";
+            },},{id: "projects-chatbot-using-rag",
+          title: 'Chatbot using RAG',
+          description: "Designed and implemented a chatbot tailored to the specific needs of my Department (SINES) in University (NUST). Collected data using Google Forms, online scrapping, and self-collection. Used Retrieval Augmented Generation to enhance Chat Bot design. Utilized OpenAI�s GPT 3.5-Turbo as Large Language Model.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ChatBot.html";
             },},{
         id: 'social-email',
         title: 'email',
