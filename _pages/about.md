@@ -24,4 +24,4 @@ My goal is clear: to apply this knowledge and research experience in the **tech 
 
 I've also worked in front-end development, data analytics, and software testing, giving me a well-rounded understanding of software systems. I'm actively seeking **full-time opportunities or research-intensive roles** where I can grow, contribute, and build impactful solutions that reflect my skills and interests.
 
-When I'm not working, you'll probably find me **playing piano 🎹, sketching 🖼️, skateboarding 🛹, riding my bike 🏍️**, or exploring the world of motorsports (one day I plan to hit the racetrack too 🏎️💨).
+When I'm not working, you'll probably find me playing piano 🎹, sketching 🖼️, skateboarding 🛹, riding my bike 🏍️, or exploring the world of motorsports (one day I plan to hit the racetrack too 🏎️💨).
