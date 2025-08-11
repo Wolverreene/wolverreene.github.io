@@ -133,30 +133,30 @@
   ],
   "references": [
     {
-      "name": "Engr. Dr. Marios Lestas",
+      "name": "<a href='https://www.frederick.ac.cy/en/about-us/faculty-staff/faculty?view=page&id=108&lid=758'>Engr. Dr. Marios Lestas</a>",
       "icon": "fa-solid fa-user-tie",
       "reference": [
-        "<a href='https://www.frederick.ac.cy/en/about-us/faculty-staff/faculty?view=page&id=108&lid=758'>Associate Professor</a>",
+        "Associate Professor",
         "Frederick University, Nicosia, Cypus",
         "<a href='mailto:eng.lm@frederick.ac.cy'>eng.lm@frederick.ac.cy</a>",
         "PhD - University of Southern California, United States"
       ]
     },
     {
-      "name": "Engr. Dr. Hassaan Khaliq Qureshi",
+      "name": "<a href='https://seecs.nust.edu.pk/faculty/hassaan-khaliq-qureshi'>Engr. Dr. Hassaan Khaliq Qureshi</a>",
       "icon": "fa-solid fa-user-tie",
       "reference": [
-        "<a href='https://seecs.nust.edu.pk/faculty/hassaan-khaliq-qureshi'>Tenured Professor</a>",
+        "Tenured Professor",
         "National University of Sciences and Technology, Islamabad, Pakistan",
         "<a href='mailto:hassaan.khaliq@seecs.edu.pk'>hassaan.khaliq@seecs.edu.pk</a>",
         "PhD - University of London, United Kingdom"
       ]
     },
     {
-      "name": "Engr. Dr. Muhammad Waqas",
+      "name": "<a href='https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-waqas'>Engr. Dr. Muhammad Waqas</a>",
       "icon": "fa-solid fa-user-tie",
       "reference": [
-        "<a href='https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/muhammad-waqas'>Senior Lecturer</a>",
+        "Senior Lecturer",
         "University of Greenwich, London, United Kingdom",
         "<a href='mailto:muhammad.waqas@gre.ac.uk'>muhammad.waqas@gre.ac.uk</a>",
         "PhD - Tsinghua University, China"
