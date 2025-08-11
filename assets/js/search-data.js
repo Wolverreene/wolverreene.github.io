@@ -66,7 +66,7 @@ ninja.data = [{
         title: 'whatsapp',
         section: 'Socials',
         handler: () => {
-          window.open("https://wa.me/+92-324-8781876", "_blank");
+          window.open("https://wa.me/923248781876", "_blank");
         },
       },{
       id: 'light-theme',
