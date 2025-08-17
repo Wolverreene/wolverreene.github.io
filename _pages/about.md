@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm **Suleman Munawar**, a Computational Science and Engineering graduate student passionate about building intelligent, efficient, and future-ready systems. My work sits at the intersection of communication, computation, and AI, with a focus on **vehicular networks, edge computing, RIS, LEO satellites**, and **energy-efficient machine learning**.
 
-I've recently completed my Master's from <a href='https://sines.nust.edu.pk'>**SINES**</a> in **NUST, Pakistan**, and I'm currently pursuing a **research mobility program at <a href='https://frederick.ac.cy/en'>Frederick University</a>, Cyprus**, funded by **Erasmus+**. My academic experience includes multiple **IEEE publications** in cutting-edge domains like RIS-assisted vehicular networks and DNN-based task offloading for edge computing.
+I've recently completed my Master's from **SINES** in **NUST, Pakistan**, and I'm currently pursuing a **research mobility program at <a href='https://frederick.ac.cy/en'>Frederick University</a>, Cyprus**, funded by **Erasmus+**. My academic experience includes multiple **IEEE publications** in cutting-edge domains like RIS-assisted vehicular networks and DNN-based task offloading for edge computing.
 
 My goal is clear: to apply this knowledge and research experience in the **tech industry**, in roles that involve solving **real-world problems with high-impact technologies**, whether that's working on **autonomous vehicles, AI/ML systems, cloud-edge integration**, or **intelligent infrastructure**.
 
