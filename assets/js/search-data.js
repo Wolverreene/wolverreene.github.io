@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Below is an overview of my academic background, research experience, and technical expertise. You can download the full PDF version of my CV using the button above.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "projects-2d-space-shooter-game",
           title: '2D Space Shooter Game',
           description: "A 2D space shooter game where a player controls a spaceship to shoot down enemies and earn points. It was developed using OOP concepts and techniques in Python.",
